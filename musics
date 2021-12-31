@@ -1,0 +1,23 @@
+"data": [
+  {
+    "id":1,
+    "name":"Hạnh phúc xuân ngời",
+    "singerName":"Noo Phước Thịnh",
+    "uri":"https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4977930c-98fa-492d-9391-6b78d0dba4a0/HanhPhucXuanNgoi-NooPhuocThinh-6407403_%281%29.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211231%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211231T072050Z&X-Amz-Expires=86400&X-Amz-Signature=8b5f82760935385acca29449a836db16c1619b67f05c2370a7aa688f2bb916d5&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "coverImage":"null"
+  },
+  {
+    "id":2,
+    "name":"Ngày xuân long phụng sum vầy",
+    "singerName":"Lam Trường",
+    "uri":"https://s3.us-west-2.amazonaws.com/secure.notion-static.com/989abbd8-1100-47a2-b11b-342e8b6a2815/Ngay-Xuan-Long-Phung-Sum-Vay-Lam-Truong.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211231%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211231T072051Z&X-Amz-Expires=86400&X-Amz-Signature=95b20304dc4ff27256f4102b10fb0df0cdab6ff67634fc8d4352a8e29d59820a&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "coverImage":"null"
+  },
+  {
+    "id":3,
+    "name":"Chúc tết",
+    "singerName":"Khởi My",
+    "uri":"https://s3.us-west-2.amazonaws.com/secure.notion-static.com/55e92319-157e-47e9-9b16-0d812a0e9077/ChucTet-KhoiMy_4gtbk.mp3?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211231%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211231T072051Z&X-Amz-Expires=86400&X-Amz-Signature=b2c16a698be684316c0b5fe416e49e5d9e2568ed82fd13b211b62a3f4cb143f6&X-Amz-SignedHeaders=host&x-id=GetObject",
+    "coverImage":"null"
+  },
+]
