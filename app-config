@@ -2,6 +2,6 @@
     "version": {
       "lastVersionCode": 320,
       "lastVersionName": "3.2.0",
-      "forceUpdate": true
+      "forceUpdate": false
     }
 }
