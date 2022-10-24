@@ -1,0 +1,22 @@
+{
+  "data": [
+  {
+    "id":1,
+    "product_id":"001_saptet",
+    "type":"inapp",
+    "name":"Lì xì 1$"
+  },
+  {
+    "id":2,
+    "product_id":"001_saptet_2",
+    "type":"inapp",
+    "name":"Lì xì 2$"
+  },
+  {
+    "id":3,
+    "product_id":"101_saptet_vip_forever",
+    "type":"subs",
+    "name":"Vip đỉnh cao"
+  }
+]
+}
