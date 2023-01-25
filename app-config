@@ -1,6 +1,6 @@
 {
     "version": {
       "lastVersionCode": 345,
-      "forceResetData": 331
+      "forceResetDataInLowerVersion": 331
     }
 }
