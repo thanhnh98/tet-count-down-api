@@ -1,8 +1,8 @@
 {
     "version": {
-      "lastVersionCode": 345,
+      "lastVersionCode": 400,
       "resetDataByVersion": {
-        "version": 331,
+        "version": 400,
         "keys": [
             "BACKGROUND_MUSIC"
         ]
