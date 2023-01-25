@@ -1,6 +1,11 @@
 {
     "version": {
       "lastVersionCode": 345,
-      "resetDataByVersion": 331
+      "resetDataByVersion": {
+        "version": 331,
+        "keys": [
+            "BACKGROUND_MUSIC"
+        ]
+      }
     }
 }
