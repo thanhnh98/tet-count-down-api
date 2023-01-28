@@ -1,6 +1,7 @@
 {
     "version": {
       "lastVersionCode": 400,
+      "forceUpdateVersion": 400,
       "resetDataByVersion": {
         "version": 400,
         "keys": [
