@@ -8,5 +8,14 @@
             "BACKGROUND_MUSIC"
         ]
       }
+    },
+    "releaseNote": {
+        "versionCode":402,
+        "versionName":"4.0.2",
+        "descriptions": [
+            "• Ra mắt tính năng đổi hình nền động",
+            "• Tuỳ chỉnh hình nền động",
+            "• Cải thiện tốc độ ứng dụng"
+        ]
     }
 }
