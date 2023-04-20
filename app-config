@@ -1,7 +1,7 @@
 {
     "version": {
-      "lastVersionCode": 403,
-      "forceUpdateVersion": 403,
+      "lastVersionCode": 404,
+      "forceUpdateVersion": 404,
       "resetDataByVersion": {
         "version": 400,
         "keys": [
