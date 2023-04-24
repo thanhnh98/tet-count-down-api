@@ -17,5 +17,6 @@
             "• Tuỳ chỉnh hình nền động",
             "• Cải thiện tốc độ ứng dụng"
         ]
-    }
+    },
+    "inAppUpdate": true
 }
