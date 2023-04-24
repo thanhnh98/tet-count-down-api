@@ -1,7 +1,7 @@
 {
     "version": {
-      "lastVersionCode": 404,
-      "forceUpdateVersion": 404,
+      "lastVersionCode": 410,
+      "forceUpdateVersion": 410,
       "resetDataByVersion": {
         "version": 400,
         "keys": [
@@ -10,11 +10,11 @@
       }
     },
     "releaseNote": {
-        "versionCode":402,
-        "versionName":"4.0.2",
+        "versionCode":410,
+        "versionName":"4.1.0",
         "descriptions": [
             "• Ra mắt tính năng đổi hình nền động",
-            "• Tuỳ chỉnh hình nền động",
+            "• Nhắc lịch sự kiện hàng ngày",
             "• Cải thiện tốc độ ứng dụng"
         ]
     },
