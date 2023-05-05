@@ -1,20 +1,21 @@
 {
     "version": {
-      "lastVersionCode": 410,
-      "forceUpdateVersion": 410,
+      "lastVersionCode": 411,
+      "forceUpdateVersion": 411,
       "resetDataByVersion": {
-        "version": 400,
+        "version": 411,
         "keys": [
-            "BACKGROUND_MUSIC"
+            "BACKGROUND_MUSIC",
+            "THEME_CUSTOM_SELECTED_URI"
         ]
       }
     },
     "releaseNote": {
-        "versionCode":410,
-        "versionName":"4.1.0",
+        "versionCode":411,
+        "versionName":"4.1.1",
         "descriptions": [
-            "• Ra mắt tính năng đổi hình nền động",
-            "• Nhắc lịch sự kiện hàng ngày",
+            "• Sửa lỗi hình nền động",
+            "• Nâng cao trãi nghiệm nhắc nhỡ hàng ngày",
             "• Cải thiện tốc độ ứng dụng"
         ]
     },
