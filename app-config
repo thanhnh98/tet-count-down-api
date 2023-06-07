@@ -11,10 +11,10 @@
       }
     },
     "releaseNote": {
-        "versionCode":411,
-        "versionName":"4.1.1",
+        "versionCode":442,
+        "versionName":"4.4.2",
         "descriptions": [
-            "• Sửa lỗi hình nền động",
+            "• Ra tính tính năng Thầy Đồ 4.0 phát triển từ ChatGPT 3.5",
             "• Nâng cao trãi nghiệm nhắc nhỡ hàng ngày",
             "• Cải thiện tốc độ ứng dụng"
         ]
